@@ -7,4 +7,4 @@ A mockup of a mobile app for the 100Thieves apparel store. This app uses a custo
 * Coded layout constraints (No storyboard used)
 
 
-![App Mockup](https://adobe.ly/2CItQ6n)
+![App Mockup](https://i.imgur.com/SM4Veg5.png)
